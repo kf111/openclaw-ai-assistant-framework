@@ -260,5 +260,19 @@
       "preview": "camsnap.md\n222.6k\n1\n2\n3\n4\nexport camsnap\nfrom \"openclaw/openclaw\"\nCapture frames or clips from RTSP/"
     },
     "details": "// Capture frames or clips from RTSP/ONVIF cameras."
+  },
+  {
+    "timestamp": "2026-02-25T13:00:02.284Z",
+    "hour": 21,
+    "category": "⚙️ 自动化",
+    "searchQuery": "bot",
+    "skillLearned": {
+      "name": "accessibility",
+      "stars": "182.0k",
+      "link": "https://skillsmp.com/skills/microsoft-vscode-github-skills-accessibility-skill-md",
+      "path": "microsoft-vscode-github-skills-accessibility-skill-md",
+      "preview": "accessibility.md\n182.0k\n1\n2\n3\n4\nexport accessibility\nfrom \"microsoft/vscode\"\nAccessibility guideline"
+    },
+    "details": "Skip to main content\nready\n~/\nskillsmp\n$\nai\n--search\n$\ncd\n/categories\n$\nwatch\nstats\n$\nman\ndocs\n$\napi\n--docs"
   }
 ]
