@@ -254,7 +254,7 @@ MIT License
 
 ---
 
-**创建时间**：2026-02-27  
-**当前版本**：v3.0（自我成长版）  
+**创建时间**：2026-03-3  
+**当前版本**：v1.0（自我成长版）  
 **维护者**：Old-Chan  
-**GitHub**：https://github.com/Old-Chan/openclaw-ai-assistant-framework
+**GitHub**：https://github.com/kf111/openclaw-ai-assistant-framework
