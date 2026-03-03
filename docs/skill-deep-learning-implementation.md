@@ -126,7 +126,7 @@ import os
 import json
 from pathlib import Path
 
-WORKSPACE = '/home/zzyuzhangxing/.openclaw/workspace'
+WORKSPACE = '/root/.openclaw/workspace'
 SKILLS_DIR = f'{WORKSPACE}/skills'
 KNOWLEDGE_BASE = f'{WORKSPACE}/data/skill-knowledge-base.json'
 

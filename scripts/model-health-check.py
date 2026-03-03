@@ -12,9 +12,9 @@ from datetime import datetime
 import sys
 import os
 
-CONFIG_FILE = '/home/zzyuzhangxing/.openclaw/workspace/config/model-pools.json'
-LOG_FILE = '/home/zzyuzhangxing/.openclaw/workspace/logs/model-health.log'
-STATUS_FILE = '/home/zzyuzhangxing/.openclaw/workspace/data/model-health-status.json'
+CONFIG_FILE = '/root/.openclaw/workspace/config/model-pools.json'
+LOG_FILE = '/root/.openclaw/workspace/logs/model-health.log'
+STATUS_FILE = '/root/.openclaw/workspace/data/model-health-status.json'
 
 def log(msg, level='INFO'):
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')

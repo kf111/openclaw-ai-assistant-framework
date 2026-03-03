@@ -8,7 +8,7 @@ import os
 import json
 from datetime import datetime
 
-WORKSPACE = '/home/zzyuzhangxing/.openclaw/workspace'
+WORKSPACE = '/root/.openclaw/workspace'
 SKILLS_DIR = f'{WORKSPACE}/skills'
 KNOWLEDGE_BASE = f'{WORKSPACE}/data/skill-knowledge-base.json'
 

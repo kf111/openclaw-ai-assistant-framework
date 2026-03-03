@@ -8,7 +8,7 @@ import os
 import subprocess
 import json
 
-WORKSPACE = '/home/zzyuzhangxing/.openclaw/workspace'
+WORKSPACE = '/root/.openclaw/workspace'
 SKILLS_DIR = f'{WORKSPACE}/skills'
 KNOWLEDGE_BASE = f'{WORKSPACE}/data/skill-knowledge-base.json'
 EXTRACT_SCRIPT = f'{WORKSPACE}/scripts/extract-skill-knowledge-enhanced.py'

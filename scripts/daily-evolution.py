@@ -9,7 +9,7 @@ import json
 from datetime import datetime, timedelta
 import os
 
-WORKSPACE = '/home/zzyuzhangxing/.openclaw/workspace'
+WORKSPACE = '/root/.openclaw/workspace'
 MEMORY_DIR = f'{WORKSPACE}/memory'
 REPORTS_DIR = f'{WORKSPACE}/data/evolution-reports'
 

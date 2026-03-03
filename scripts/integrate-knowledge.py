@@ -9,7 +9,7 @@ import json
 from datetime import datetime
 from collections import Counter
 
-WORKSPACE = '/home/zzyuzhangxing/.openclaw/workspace'
+WORKSPACE = '/root/.openclaw/workspace'
 KNOWLEDGE_BASE = f'{WORKSPACE}/data/skill-knowledge-base.json'
 SKILL_COMBINATIONS = f'{WORKSPACE}/data/skill-combinations.json'
 NEW_CAPABILITIES = f'{WORKSPACE}/data/new-capabilities.json'

@@ -8,7 +8,7 @@ Test session routing rules
 import json
 from datetime import datetime
 
-CONFIG_FILE = '/home/zzyuzhangxing/.openclaw/workspace/config/model-pools.json'
+CONFIG_FILE = '/root/.openclaw/workspace/config/model-pools.json'
 
 def load_config():
     with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
